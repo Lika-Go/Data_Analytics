@@ -24,8 +24,8 @@
 <br>
 <span align="center">
   
-[E-mail](mailto:angel.itf@gmail.com) рџ”№ [Telegram](https://t.me/golikago)
+[E-mail](mailto:angel.itf@gmail.com) || [Telegram](https://t.me/golikago)
 
-![Diploma]([https://drive.google.com/uc?export=view&id=1tFv6hM0jwUZlhKNiAZD-P7JuHNaPhx6D](https://drive.google.com/file/d/1WL6VCLcXIFN2Nes5VgIDQnqs3IxjD_Dl/view?usp=drive_link)https://drive.google.com/file/d/1WL6VCLcXIFN2Nes5VgIDQnqs3IxjD_Dl/view?usp=drive_link)
+![Diploma](https://drive.google.com/file/d/1EC5YFYBmtyYcI9viMhvXHrSPu4uDfgIv/view?usp=drive_link)
 
 </span>
