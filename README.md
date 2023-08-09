@@ -26,6 +26,6 @@
   
 [E-mail](mailto:angel.itf@gmail.com) | [Telegram](https://t.me/golikago)
 
-![Diploma](https://drive.google.com/file/d/1EC5YFYBmtyYcI9viMhvXHrSPu4uDfgIv/view?usp=drive_link)
+![Diploma](https://drive.google.com/file/d/1EC5YFYBmtyYcI9viMhvXHrSPu4uDfgIv/view?usp=sharing)
 
 </span>
