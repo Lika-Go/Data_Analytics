@@ -7,7 +7,9 @@
 
 ## Данные
 
-Информация содержится в базе данных. Для подключения к ней и выгрузки данных в csv-файл необходимо подготовить и запустить код в [Connection_file.ipynb](https://github.com/FreckleFoxMitch/Yandex_projects_DA/blob/main/10.%20%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%20Tableau%20%D0%B4%D0%BB%D1%8F%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%94%D0%B7%D0%B5%D0%BD/10.db_connect.ipynb)
+1. Информация содержится в базе данных. Для подключения к ней и выгрузки данных в csv-файл необходимо подготовить и запустить код в [Connection_file.ipynb](https://github.com/Lika-Go/Data_Analytics/blob/main/10.%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D0%B0%20Tableau/Connection_file.ipynb)
+
+2. Далее создаем агрегирующую таблицу [dash_visits.csv]()
 
 ## Краткое ТЗ
 
