@@ -11,7 +11,7 @@
 
 2. Далее создаем агрегирующую таблицу [dash_visits.csv](https://github.com/Lika-Go/Data_Analytics/blob/main/10.%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D0%B0%20Tableau/dash_visits.csv)
 
-3. Затем таблицу выгружаем и на ее основе создаем дашборд в Tableau Public (ссылка на готовый дашборд выше).
+3. Затем таблицу выгружаем и на ее основе создаем дашборд в Tableau Public ([ссылка на готовый дашборд](https://public.tableau.com/views/__16858683467840/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)).
 
 ## Краткое ТЗ
 
