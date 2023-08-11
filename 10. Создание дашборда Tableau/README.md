@@ -1,15 +1,17 @@
 # Создание дашборда Tableau для Яндекс.Дзен
 
-Ссылка на интерактивный дашборд на сайте [Tableau Public](https://public.tableau.com/views/__16858683467840/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+Ссылка на готовый интерактивный дашборд на сайте [Tableau Public](https://public.tableau.com/views/__16858683467840/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Описание:
 Вы работаете аналитиком в Дзене. Для коллег нужно сделать дашборд. Он будет основан на пайплайне, который будет брать данные из таблицы, в которых хранятся сырые данные, трансформировать данные и укладывать их в агрегирующую таблицу dash_visits.csv. 
 
-## Данные
+## Данные и порядок действий
 
 1. Информация содержится в базе данных. Для подключения к ней и выгрузки данных в csv-файл необходимо подготовить и запустить код в [Connection_file.ipynb](https://github.com/Lika-Go/Data_Analytics/blob/main/10.%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D0%B0%20Tableau/Connection_file.ipynb)
 
-2. Далее создаем агрегирующую таблицу [dash_visits.csv]()
+2. Далее создаем агрегирующую таблицу [dash_visits.csv](https://github.com/Lika-Go/Data_Analytics/blob/main/10.%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D0%B0%20Tableau/dash_visits.csv)
+
+3. Затем таблицу выгружаем и на ее основе создаем дашборд в Tableau Public (ссылка на готовый дашборд выше).
 
 ## Краткое ТЗ
 
