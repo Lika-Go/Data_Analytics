@@ -2,8 +2,8 @@
 
 ## Визуализация
 
-[Дашборд Tableau](https://public.tableau.com/shared/HZCF2GWB9?:display_count=n&:origin=viz_share_link)
-[Презентация для отдела маркетинга банка](https://disk.yandex.ru/d/UvONSenpUyrlwQ)
+* [Дашборд Tableau](https://public.tableau.com/shared/HZCF2GWB9?:display_count=n&:origin=viz_share_link)
+* [Презентация для отдела маркетинга банка](https://disk.yandex.ru/d/UvONSenpUyrlwQ)
 
 
 ## Описание проекта:
